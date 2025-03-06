@@ -5,10 +5,15 @@ This is a React application built using Zustand for state management. The goal i
 
 
 **Technologies Used:**
+
 -React (TypeScript)
- -React Router
--Zustand (State Management)
--JSON Server for backend simulation
+
+ -React Router 
+ 
+-Zustand (State Management) 
+
+-JSON Server for backend simulation 
+ 
 -AJAX (Fetch API) for reviews
 
 
